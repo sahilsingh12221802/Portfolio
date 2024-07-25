@@ -25,11 +25,13 @@ import {
     redux,
     sass,
     snapgram,
+    vr,
     summiz,
     gdsc,
     tailwindcss,
     hackerearth,
     threads,
+    iphone,
     typescript
 } from "../assets/icons";
 
@@ -228,11 +230,11 @@ export const projects = [
         link: 'https://github.com/sahilsingh12221802/3D-parallax-website',
     },
     {
-        iconUrl: lms,
+        iconUrl: iphone,
         theme: 'btn-back-green',
-        name: 'Learning Management System',
-        description: 'I have developed a comprehensive front-end design for individuals seeking a visually appealing layout for their online learning management platform homepage.',
-        link: 'https://github.com/sahilsingh12221802/Learning-Management-System',
+        name: 'Iphone 15 Pro',
+        description: 'I have developed a comprehensive front-end design for individuals seeking a visually appealing layout of Iphone 15 Pro Clone.',
+        link: 'https://iphone15pro-pi.vercel.app/',
     },
     {
         iconUrl: robot,
@@ -241,13 +243,13 @@ export const projects = [
         description: 'Developed a Python-based project where a robot is programmed to verbally communicate the temperature of a specified city. ',
         link: 'https://github.com/sahilsingh12221802/CityTempTalk',
     },
-    // {
-    //     iconUrl: snapgram,
-    //     theme: 'btn-back-pink',
-    //     name: 'Full Stack Instagram Clone',
-    //     description: 'Built a complete clone of Instagram, allowing users to share photos and connect with friends in a familiar social media environment.',
-    //     link: 'https://github.com/adrianhajdin/social_media_app',
-    // },
+    {
+        iconUrl: vr,
+        theme: 'btn-back-pink',
+        name: 'Apple Vision Pro Clone',
+        description: 'The Apple Vision Pro website clone faithfully replicates Apple sleek design and user-friendly experience showcasing the latest technology with precision.',
+        link: 'https://github.com/sahilsingh12221802/Apple-Vision-Pro-Clone/tree/main',
+    },
     // {
     //     iconUrl: estate,
     //     theme: 'btn-back-black',

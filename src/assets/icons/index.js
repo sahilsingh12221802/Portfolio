@@ -33,6 +33,8 @@ import gdsc from './gdsc.webp'
 import hackerearth from './hackerearth.png'
 import saintcoders from './saintcoders.jpeg'
 import codingninja from './codingninja.jpeg'
+import vr from './vr.svg'
+import iphone from './iphone.svg'   
 
 
 
@@ -71,5 +73,7 @@ export {
     contact,
     soundon,
     codingninja,
-    soundoff
+    soundoff,
+    vr,
+    iphone
 }
