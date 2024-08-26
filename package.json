@@ -12,12 +12,15 @@
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
     "@react-spring/three": "^9.7.3",
-    "@react-three/drei": "^9.89.0",
-    "@react-three/fiber": "^8.15.11",
+    "@react-three/drei": "^9.111.3",
+    "@react-three/fiber": "^8.17.6",
+    "@types/three": "^0.167.2",
+    "gsap": "^3.12.5",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.20.0",
-    "react-vertical-timeline-component": "^3.6.0"
+    "react-vertical-timeline-component": "^3.6.0",
+    "three": "^0.167.1"
   },
   "devDependencies": {
     "@types/react": "^18.2.37",
