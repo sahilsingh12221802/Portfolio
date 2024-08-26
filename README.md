@@ -28,21 +28,10 @@ Experience a visual feast with the magic of Three JS, creating a stunning 3D env
 ## Responsiveness Reigns
 Your journey through Sahil's portfolio is seamless and delightful across all devices.
 
-## Screenshots
-
-![](https://github.com/sahilsingh12221802/3D-using-threejs/blob/main/Screenshot1.png)
-
-![]("https://github.com/sahilsingh12221802/3D-using-threejs/blob/main/Screenshot2.png")
-
-![](https://github.com/sahilsingh12221802/3D-using-threejs/blob/main/Screenshot3.png)
-
-![](https://github.com/sahilsingh12221802/3D-using-threejs/blob/main/Screenshot4.png)
-
-![](https://github.com/sahilsingh12221802/3D-using-threejs/blob/main/Screenshot5.png)
 ## 🚀 How to Launch
 
 ### Clone & Explore:
 
 ```bash
-git clone https://github.com/your-username/sahil-portfolio.git
-cd sahil-portfolio
+git clone https://github.com/sahilsingh12221802/Portfolio.git
+cd Portfolio
